@@ -25,5 +25,4 @@ _- Introduction to Applied Data Science
 - Foundational Python
 - Data Storytelling and Visualization
 - Applied Machine Learning, Bias & Ethics 
-- Engineering and Managing Data 
-_
+- Engineering and Managing Data
