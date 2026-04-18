@@ -3,8 +3,11 @@
 **Joycelyn L. Hughes-Moulden, Ed.D.**
 
 **Email: **joycelyn.hughes@howard.edu****
+
 **LinkedIn:**https://www.linkedin.com/in/drjhm/****
+
 **Current Student at: **Howard University, Graduate School - Applied Data and Analytics, Master's Program****
+
 **Technical Skills: ** Languages: Python, R, SQL; 
                        Libraries: Pandas, Scikit-learn, TensorFlow 
                        Tools: Flourish, Power BI, Tableau****
